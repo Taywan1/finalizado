@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://taywan1.github.io/finalizado/sitemap.xml
