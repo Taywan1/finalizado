@@ -17,10 +17,9 @@ body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f9f3e9;
+  background-color: white; /* fundo branco */
   position: relative;
   overflow-x: hidden;
-  background-color:white;
   background-attachment: fixed;
   background-size: cover;
 }
