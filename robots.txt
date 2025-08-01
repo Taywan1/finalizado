@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://taywan1.github.io/finalizado/</loc>
-    <lastmod>01/08/2025</lastmod>
-  </url>
-</urlset>
+User-agent: *
+Disallow:
 
+Sitemap: https://taywan1.github.io/finalizado/sitemap.xml
