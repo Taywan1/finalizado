@@ -20,7 +20,7 @@ body {
   background-color: #f9f3e9;
   position: relative;
   overflow-x: hidden;
-  background-image: url('https://i.imgur.com/JYw5FyK.png');
+  background-color:white;
   background-attachment: fixed;
   background-size: cover;
 }
