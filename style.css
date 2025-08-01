@@ -46,44 +46,6 @@ body {
   font-family: 'Naruto', sans-serif;
 }
 
-/* ---------------- ELEMENTOS VISUAIS ---------------- */
-/* -------fundo-nuvens------- */
-.ninja-clouds {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('https://i.imgur.com/XWQJZ3n.png');
-  opacity: 0.15;
-  z-index: -1;
-  pointer-events: none;
-}
-
-/* -------nuvens-laterais------- */
-.cloud {
-  position: absolute;
-  width: 100px;
-  height: 60px;
-  background-image: url('https://i.imgur.com/5XJQZ3D.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-  z-index: -1;
-}
-
-/* -------nuvem-esquerda------- */
-.left-cloud {
-  left: -120px;
-  top: 20px;
-}
-
-/* -------nuvem-direita------- */
-.right-cloud {
-  right: -120px;
-  top: 20px;
-}
-
 /* ---------------- CABEÇALHO ---------------- */
 /* -------faixa-cabeçalho------- */
 .ninja-header {
